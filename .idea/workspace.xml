@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2571738-6fc0-4299-ada5-1b30677b52bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../drf-demo/.idea/drf-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0003_comment_email_comment_name_comment_website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0004_rename_post_comment_blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0005_alter_comment_author.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/0006_alter_comment_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0005_selectionlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0006_alter_selectionlist_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0007_alter_selectionlist_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0008_alter_selectionlist_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0009_alter_selectionlist_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/migrations/0010_alter_selectionlist_jobs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jobs/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog/Screenshot_from_2023-05-03_16-26-47_hcSkzM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog/Screenshot_from_2023-05-03_16-26-47_rZSJ843.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog/Screenshot_from_2023-05-03_16-26-47_vFc7RKs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog/Screenshot_from_2023-05-03_16-26-47_zr1XWLe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mustaqil/.idea/mustaqil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypotcast/.idea/mypotcast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypotcast/blog/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypotcast/blog/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypotcast/blog/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mypotcast/blog/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/.idea/simple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../univer/.idea/univer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/blog_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/blog_api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/blog_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/blog_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/profile/profile_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/profile/profile_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/profile/profile_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/profile/profile_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/templates/wordify/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/templates/wordify/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wordify/templates/wordify/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../wordify/templates/wordify/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Ozj9xgwZgJccIPo9qLGM8LNnSn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/muhammad/isystem/job/blog&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog" />
+      <recent name="$PROJECT_DIR$/jobs" />
+      <recent name="$PROJECT_DIR$/account" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2571738-6fc0-4299-ada5-1b30677b52bd" name="Changes" comment="" />
+      <created>1682570156758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682570156758</updated>
+      <workItem from="1682570157837" duration="2653000" />
+      <workItem from="1682573269590" duration="4910000" />
+      <workItem from="1682581687075" duration="1742000" />
+      <workItem from="1682583437021" duration="167000" />
+      <workItem from="1682591763388" duration="661000" />
+      <workItem from="1682604615353" duration="124000" />
+      <workItem from="1682604948185" duration="7561000" />
+      <workItem from="1682623451014" duration="3879000" />
+      <workItem from="1682627471422" duration="2758000" />
+      <workItem from="1682654820774" duration="3499000" />
+      <workItem from="1682665516107" duration="1532000" />
+      <workItem from="1682741435585" duration="1499000" />
+      <workItem from="1682777225434" duration="2666000" />
+      <workItem from="1682853256219" duration="6000" />
+      <workItem from="1682853535272" duration="2434000" />
+      <workItem from="1682933942547" duration="11888000" />
+      <workItem from="1682975247876" duration="475000" />
+      <workItem from="1682975733282" duration="30000" />
+      <workItem from="1682975769633" duration="558000" />
+      <workItem from="1682976333607" duration="5000" />
+      <workItem from="1683000215910" duration="185000" />
+      <workItem from="1683000407180" duration="2635000" />
+      <workItem from="1683003223709" duration="1527000" />
+      <workItem from="1683005325151" duration="4646000" />
+      <workItem from="1683011347347" duration="289000" />
+      <workItem from="1683098630955" duration="159000" />
+      <workItem from="1683098808905" duration="4593000" />
+      <workItem from="1683106619009" duration="236000" />
+      <workItem from="1683107064797" duration="1700000" />
+      <workItem from="1683112441656" duration="1256000" />
+      <workItem from="1683175285928" duration="11361000" />
+      <workItem from="1683260331607" duration="3688000" />
+      <workItem from="1683269824750" duration="698000" />
+      <workItem from="1683311136149" duration="18107000" />
+      <workItem from="1683346122601" duration="2924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
